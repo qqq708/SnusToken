@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SnusToken 💨</title>
+  <style>
+    body {
+      background-color: #1e1e1e;
+      color: #f5f5f5;
+      font-family: 'Comic Sans MS', sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 4rem;
+      margin-bottom: 10px;
+    }
+    .logo {
+      font-size: 100px;
+    }
+    .btn {
+      background: #f5f5f5;
+      color: #1e1e1e;
+      padding: 15px 30px;
+      border: none;
+      border-radius: 10px;
+      font-size: 1.5rem;
+      cursor: pointer;
+      margin-top: 30px;
+    }
+    .tokenomics {
+      margin-top: 60px;
+      font-size: 1.2rem;
+    }
+    footer {
+      margin-top: 80px;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo">💨</div>
+  <h1>SnusToken</h1>
+  <p>Den eneste crypto, der lugter lidt af mentol og lommeuld.</p>
+
+  <button class="btn">Køb SnusToken nu</button>
+
+  <div class="tokenomics">
+    <h2>Tokenomics</h2>
+    <p>Total Supply: 1.000.000.000 SNUZ</p>
+    <p>50% til fællesskabet 🧑‍🤝‍🧑</p>
+    <p>25% til udvikling 💻</p>
+    <p>15% til marketing 🎯</p>
+    <p>10% til snus & sjov 💨</p>
+  </div>
+
+  <footer>
+    <p>Følg os på <a href="#" style="color: lightblue;">Twitter</a> | <a href="#" style="color: lightblue;">Telegram</a> | <a href="#" style="color: lightblue;">Discord</a></p>
+    <p>&copy; 2025 SnusToken. Alle rettigheder forbeholdes.</p>
+  </footer>
+</body>
+</html>
